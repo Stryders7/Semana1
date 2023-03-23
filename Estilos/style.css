@@ -1,10 +1,44 @@
-h1{
-    color:black;
+h1 {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: "Times New Roman", Times, serif;
+  padding: 10px;
+  background: linear-gradient(to right,rgb(255, 255, 255), #05f5b9f6);
+  text-shadow: 2px 2px 4px #c56464;
 }
-p{
-    text-justify: auto;
+
+p {
+  text-align: justify;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
 }
-.pepe{
-    color: blue;
-    text-align: center;
+
+li {
+  text-align: justify;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  background: linear-gradient(to right,rgb(236, 188, 188), rgba(255, 251, 1, 0.979));
+  width: 770px;
+  margin: 10px auto;
+}
+
+a {
+  display: block;
+  text-align: center;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  border: 3px solid rgb(255, 255, 255);
+  border-radius: 5px;
+}
+
+.aespecial{
+  text-align: end;
 }
