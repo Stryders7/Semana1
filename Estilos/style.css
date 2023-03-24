@@ -4,7 +4,7 @@ h1 {
   font-family: "Times New Roman", Times, serif;
   padding: 10px;
   background: linear-gradient(to right,rgb(255, 255, 255), #05f5b9f6);
-  text-shadow: 2px 2px 4px #c56464;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 p {
