@@ -21,8 +21,7 @@ li {
 
 body {
   background: linear-gradient(to right,rgb(236, 188, 188), rgba(255, 251, 1, 0.979));
-  width: 770px;
-  margin: 10px auto;
+
 }
 
 a {
@@ -32,13 +31,13 @@ a {
   font-family: "Times New Roman", Times, serif;
 }
 
-img {
+/* img {
   display: block;
   margin: 10px auto;
   border: 3px solid rgb(255, 255, 255);
   border-radius: 5px;
-}
+} */
 
-.aespecial{
+/* .aespecial{
   text-align: end;
-}
+} */
